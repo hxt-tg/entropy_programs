@@ -1,3 +1,5 @@
-# entropy_programs
+# Complex Networks Entropy
 
-Complex Networks Entropy
+Programs for complex networks entropy.
+
+By Yongjun Luo & Xintao Hu.
